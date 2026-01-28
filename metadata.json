@@ -1,0 +1,29 @@
+{
+  "name": "Noir Fashion",
+  "category": "E-commerce",
+  "description": "Elegant fashion and e-commerce template with sleek black design, perfect for clothing brands, boutiques, and fashion portfolios",
+  "tags": ["fashion", "e-commerce", "boutique", "elegant", "minimalist"],
+  "author": "TemplateMo",
+  "version": "1.0.0",
+  "features": [
+    "Product showcase",
+    "Responsive gallery",
+    "Smooth scrolling",
+    "Modern navigation",
+    "Collection sections",
+    "About section",
+    "Contact information"
+  ],
+  "colors": {
+    "primary": "#000000",
+    "secondary": "#ff3366",
+    "accent": "#ffffff"
+  },
+  "idealFor": [
+    "Fashion brands",
+    "Clothing boutiques",
+    "Online stores",
+    "Fashion designers",
+    "Lifestyle brands"
+  ]
+}
